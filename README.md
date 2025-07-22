@@ -1,6 +1,6 @@
 # Abstract Strategy Games
 
-A C++ terminal-based application that implements multiple abstract strategy board games: **Tic-Tac-Toe**, **Connect Four**, and **Five in a Row (Gomoku)**. Designed with extensibility in mind using object-oriented principles such as inheritance and polymorphism.
+A Java terminal-based application that implements multiple abstract strategy board games: **Tic-Tac-Toe**, **Connect Four**, and **Five in a Row (Gomoku)**. Designed with extensibility in mind using object-oriented principles such as inheritance and polymorphism.
 
 ##  Overview
 
